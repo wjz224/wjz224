@@ -1,5 +1,4 @@
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=wjz224&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 <!--
 **wjz224/wjz224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
