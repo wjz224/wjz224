@@ -1,6 +1,11 @@
 # 🎿 Wilson Zheng 💻
 **`Full Stack Developer`**
-<!--
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=007acc&vCenter=true&pause=1000&size=22" />
+</p
+
+
 **wjz224/wjz224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
