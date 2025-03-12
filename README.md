@@ -9,7 +9,9 @@
   </a>
 </p>
 
-
+<p align="center" style="margin-top: -25px; margin-bottom: -15px;">
+  <img src="https://raw.githubusercontent.com/wjz224/wjz224/main/LehighLogo.jpg" alt="Lehigh Logo" height="80">
+</p>
 
 <p align="center" style="margin-top: -25px;">
   <a href="https://github.com/wjz224">
