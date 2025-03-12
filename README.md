@@ -1,10 +1,14 @@
-
-<p align="center">
-  <svg width="435" height="50" viewBox="0 0 435 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="35" font-family="Fira Code, monospace" font-size="20" font-weight="400" fill="#36BCF7">
-       Hello World
-    </text>
-  </svg>
+<p style="
+  font-family: 'Fira Code', monospace; 
+  font-size: 20px; 
+  font-weight: 400; 
+  color: #36BCF7; 
+  width: 435px; 
+  height: 50px; 
+  line-height: 50px; 
+  margin: 0;
+">
+  The five boxing wizards jump quickly
 </p>
 
 
