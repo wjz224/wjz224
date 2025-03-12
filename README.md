@@ -1,14 +1,6 @@
-<p style="
-  font-family: 'Fira Code', monospace; 
-  font-size: 20px; 
-  font-weight: 400; 
-  color: #36BCF7; 
-  width: 435px; 
-  height: 50px; 
-  line-height: 50px; 
-  margin: 0;
-">
-  The five boxing wizards jump quickly
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="/GitHub Name.png" alt="Wilson Zheng" /></a>
 </p>
 
 
