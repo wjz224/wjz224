@@ -1,7 +1,6 @@
-<p align="center">
+<div align="center">
   <h1>🎿 Wilson Zheng 💻</h1>
-</p>
-
+</div>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href = "https://github.com/wjz224">
