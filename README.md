@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href = "https://github.com/wjz224">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20stack%20web%20and%20app%20developer;Always%20learning%20new%20things%20😊&font=Fira%20Code&center=true&width=440&height=45&color=007acc&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20stack%20web%20and%20app%20developer;Always%20excited%20to%learn%20new%20things%20😊&font=Fira%20Code&center=true&width=440&height=45&color=007acc&vCenter=true&pause=1000&size=22" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/wjz224/wjz224/main/LehighLogo.jpg" alt="Lehigh Logo" height="45" style="vertical-align: middle; margin-right: 10px;">
