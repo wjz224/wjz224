@@ -1,6 +1,9 @@
-<p style="font-family: 'Fira Code', monospace; font-size: 20px; font-weight: 400; color: #36BCF7; width: 435px; height: 50px; line-height: 50px; text-align: center; margin: 0;">
-  🎿 Wilson Zheng 💻
-</p>
+<div style="display: flex; justify-content: center; align-items: center; width: 435px; height: 50px;">
+  <p style="font-family: 'Fira Code', monospace; font-size: 40px; font-weight: 400; color: #36BCF7; margin: 0;">
+    🎿 Wilson Zheng 💻
+  </p>
+</div>
+
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
