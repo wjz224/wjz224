@@ -7,6 +7,12 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full%20stack%20web%20and%20app%20developer;Always%20learning%20new%20things%20😊&font=Fira%20Code&center=true&width=440&height=45&color=007acc&vCenter=true&pause=1000&size=22" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wjz224/wjz224/main/Lehigh.png" alt="Lehigh" width="50" height="50" style="vertical-align: middle;">
+  <span style="font-family: 'Fira Code', monospace; font-size: 20px; font-weight: 400; color: #36BCF7; vertical-align: middle; margin-left: 10px;">
+    Lehigh CS Graduate - Bachelor of Science in Computer Science
+  </span>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
