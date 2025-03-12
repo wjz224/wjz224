@@ -1,9 +1,12 @@
-<div style="display: flex; justify-content: center; align-items: center; width: 435px; height: 50px;">
-  <p style="font-family: 'Fira Code', monospace; font-size: 40px; font-weight: 400; color: #36BCF7; margin: 0;">
-    🎿 Wilson Zheng 💻
-  </p>
-</div>
-
+<p align="center">
+  <a href="https://github.com/wjz224">
+    <svg width="440" height="45" xmlns="http://www.w3.org/2000/svg">
+      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-size="22" fill="#007acc">
+        🎿 Wilson Zheng 💻
+      </text>
+    </svg>
+  </a>
+</p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
