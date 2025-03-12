@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/wjz224/wjz224/main/Github%20Name.png" alt="GitHub Name" width="435" height="50">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wjz224/wjz224/main/Github%20Name.png" alt="GitHub Name" width="435" height="50">
+</p>
 
 
 <p align="center">
