@@ -1,6 +1,7 @@
-<p align="center">
-# 🎿 Wilson Zheng 💻
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 22px; color: #007acc;">
+  🎿 Wilson Zheng 💻
 </p>
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <img src="https://readme-typing-svg.demolab.com/?lines=Full%20stack%20web%20and%20app%20developer;Always%20learning%20new%20things%20😊&font=Fira%20Code&center=true&width=440&height=45&color=007acc&vCenter=true&pause=1000&size=22" />
