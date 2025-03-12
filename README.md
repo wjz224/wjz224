@@ -1,11 +1,5 @@
 <p align="center">
-  <a href="https://github.com/wjz224">
-    <svg width="440" height="45" xmlns="http://www.w3.org/2000/svg">
-      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-size="22" fill="#007acc">
-        🎿 Wilson Zheng 💻
-      </text>
-    </svg>
-  </a>
+  # Wilson Zheng
 </p>
 
 <p align="center">
