@@ -1,5 +1,5 @@
-<p align="center" style="font-size: 32px; font-family: 'Fira Code', monospace; color: #007acc;">
-  🎿 Wilson Zheng 💻
+<p align="center">
+  <h1>🎿 Wilson Zheng 💻</h1>
 </p>
 
 <p align="center">
