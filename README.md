@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wjz224/wjz224/main/Lehigh.png" alt="Lehigh" width="50" height="50" style="vertical-align: middle;">
+  <img src="https://raw.githubusercontent.com/wjz224/wjz224/main/Lehigh.png" alt="Lehigh" width="100" height="45" style="vertical-align: middle;">
   <span style="font-family: 'Fira Code', monospace; font-size: 20px; font-weight: 400; color: #36BCF7; vertical-align: middle; margin-left: 10px;">
     Lehigh CS Graduate - Bachelor of Science in Computer Science
   </span>
