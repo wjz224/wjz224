@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wjz224/wjz224/main/Github%20Name.png" alt="GitHub Name" width="435" height="80">
+<p style="font-family: 'Fira Code', monospace; font-size: 20px; font-weight: 400; color: #36BCF7; width: 435px; height: 50px; line-height: 50px; text-align: center; margin: 0;">
+  🎿 Wilson Zheng 💻
 </p>
-
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
