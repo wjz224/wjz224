@@ -86,4 +86,4 @@
     <a href="#"><img alt="Sodapy" src="https://img.shields.io/badge/Sodapy-FF6600.svg?logo=python&logoColor=white"></a>
 </p>
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I don't know how to swim 😅.
