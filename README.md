@@ -16,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://wjz224.github.io/"><img width="52px" alt="Personal Website" title="Personal Website" src="WlogoW.jpg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/wilson-zheng4/"><img width="52px" alt="LinkedIn" title="LinkedIn" src="linkedinlogo.png"/></a>
+  <a href="https://www.linkedin.com/in/wilson-zheng24/"><img width="52px" alt="LinkedIn" title="LinkedIn" src="linkedinlogo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
