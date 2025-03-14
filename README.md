@@ -20,17 +20,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wilson-zheng24/">
+  <a href="https://www.linkedin.com/in/wilson-zheng24/" style="margin: 0; padding: 0;">
     <img src="linkedinlogo.png" width="32px" alt="LinkedIn Logo">
   </a>
-  <a href="https://wjz224.github.io/">
+  <a href="https://wjz224.github.io/" style="margin: 0; padding: 0;">
     <img src="WLogo.jpg" width="50px" alt="Personal Website">
   </a>
-  <a href="https://www.instagram.com/wilson.zheng4/">
+  <a href="https://www.instagram.com/wilson.zheng4/" style="margin: 0; padding: 0;">
     <img src="instagramlogo.png" width="32px" alt="Instagram Logo">
   </a>
 </p>
-
 
 <details open>
   <summary><h2>🤔Project's I am currently working on🔭</h2></summary>
