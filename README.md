@@ -19,7 +19,11 @@
   </a>
 </p>
 
-
+<details open> 
+  <summary><h2>💡My Top Open Source Projects💡</h2></summary>
+<p align = "left">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
