@@ -27,11 +27,9 @@
    <a href="https://github.com/wjz224/BuzzMedia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=BuzzMedia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/wjz224/Health-Map"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Health-Map&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&langs_count=4" alt="readme-typing-svg"></a>
 <a href="https://github.com/wjz224/Scramble-Scrolls"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Scramble-Scrolls&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+   <a href="https://github.com/wjz224/Scheme-Interpreter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Scheme-Interpreter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </p>
-  <a href="https://github.com/wjz224/Scheme-Interpreter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Scheme-Interpreter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-
   <h2>🛠️ Technical Skills & Tools</h2>
-        
   <h3>👨‍💻 Programming Languages</h3>
 <p>
     <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
