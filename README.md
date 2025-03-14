@@ -22,14 +22,16 @@
 <details open> 
   <summary><h2>💡My Top Open Source Projects💡</h2></summary>
 <p align = "left">
+    <a href="https://github.com/wjz224/Lutron-Capstone-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Lutron-Capstone-Project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&langs_count=4" alt="readme-typing-svg"></a>
     <a href="https://github.com/wjz224/FindCamps"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=FindCamps&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&langs_count=4&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/wjz224/Health-Map"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Health-Map&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&langs_count=4" alt="readme-typing-svg"></a>
-  <a href="https://github.com/wjz224/Lutron-Capstone-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Lutron-Capstone-Project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&langs_count=4" alt="readme-typing-svg"></a>
    <a href="https://github.com/wjz224/BuzzMedia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=BuzzMedia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/wjz224/Health-Map"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Health-Map&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&langs_count=4" alt="readme-typing-svg"></a>
+<a href="https://github.com/wjz224/Scramble-Scrolls"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Scramble-Scrolls&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </p>
+  <a href="https://github.com/wjz224/Scheme-Interpreter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Scheme-Interpreter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 
-  <h2>🛠️ My Favorite Tools</h2>
-
+  <h2>🛠️ Technical Skills & Tools</h2>
+        
   <h3>👨‍💻 Programming Languages</h3>
 <p>
     <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -42,7 +44,6 @@
     <a href="#"><img alt="x86 Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 </p>
-
 <h3>📦 Frameworks</h3>
 <p>
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring-boot&logoColor=white"></a>
@@ -55,16 +56,6 @@
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
-
-<h3>📚 Libraries</h3>
-<p>
-    <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Sodapy" src="https://img.shields.io/badge/Sodapy-FF6600.svg?logo=python&logoColor=white"></a>
-</p>
-
 <h3>☁️ Cloud Technologies</h3>
 <p>
     <a href="#"><img alt="AWS S3" src="https://img.shields.io/badge/AWS%20S3-569A31.svg?logo=amazon-aws&logoColor=white"></a>
@@ -74,13 +65,20 @@
     <a href="#"><img alt="AWS QuickSight" src="https://img.shields.io/badge/AWS%20QuickSight-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
 </p>
-
 <h3>🗄️ Database Systems</h3>
 <p>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Oracle SQL" src="https://img.shields.io/badge/Oracle%20SQL-F80000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+</p>
+<h3>📚 Libraries</h3>
+<p>
+    <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Sodapy" src="https://img.shields.io/badge/Sodapy-FF6600.svg?logo=python&logoColor=white"></a>
 </p>
 
 - 🔭 I’m currently working on ...
