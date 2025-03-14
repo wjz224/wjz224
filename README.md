@@ -20,22 +20,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wilson-zheng24/">
-    <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/wilson-zheng24?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/wjz224">
-    <img alt="GitHub" title="Visit my GitHub" src="https://custom-icon-badges.demolab.com/github/stars/wjz224?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a> 
-  <a href="https://www.instagram.com/wilson.zheng4/">
-    <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/github/followers/wilson.zheng4?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/>
-  </a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="YouTube Views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/>
-  </a>
+  <a href="https://www.linkedin.com/in/wilson-zheng/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/instagramlogo.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/wjz224"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/linkedinlogo.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://wjz224.github.io/"><img width="32px" alt="Personal Website" title="Personal Website" src="https://i.imgur.com/Wlogo.jpg"/></a>
 </p>
+
 
 <details open>
   <summary><h2>🤔Project's I am currently working on🔭</h2></summary>
