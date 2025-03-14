@@ -20,7 +20,10 @@
 </p>
 
 <details open>
-  <summary><h2>🤔Project's I am working on🤔</h2></summary>
+  <summary><h2>🤔Project's I am currently working on🔭</h2></summary>
+  <p align = "left">
+    <a href="https://github.com/wjz224/Budgetly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Budgetly&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&langs_count=4" alt="readme-typing-svg"></a>
+  </p>
 <details open> 
   <summary><h2>💡My Top Open Source Projects💡</h2></summary>
 <p align = "left">
