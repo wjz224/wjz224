@@ -19,18 +19,18 @@
   </a>
 </p>
 
-<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/wilson-zheng24/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://imgur.com/gallery/linkedin-logo-colored-OQUXwNp" width="32px" alt="LinkedIn Logo">
   </a>
   <a href="https://wjz224.github.io/">
-    <img src="https://img.shields.io/badge/Personal%20Website-FF5733?logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="WLogo.jpeg" width="32px" alt="Personal Website">
   </a>
   <a href="https://www.instagram.com/wilson.zheng4/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://imgur.com/gallery/instagram-logo-64x56-bqhcvZy" width="32px" alt="Instagram Logo">
   </a>
 </p>
+
 
 <details open>
   <summary><h2>🤔Project's I am currently working on🔭</h2></summary>
