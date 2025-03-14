@@ -5,7 +5,7 @@
 <p align="center" style="margin-bottom: -15px;">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/wjz224">
-    <img src="https://readme-typing-svg.demolab.com/?lines=👋%20I%20am%20a%20full%20stack%20web%20and%20app%20developer;Always%20excited%20to%20learn%20new%20things%20😎&font=Fira%20Code&center=true&width=600&height=45&color=007acc&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=👋😁%20I%20am%20a%20full%20stack%20web%20and%20app%20developer;Always%20excited%20to%20learn%20new%20things%20😎&font=Fira%20Code&center=true&width=600&height=45&color=007acc&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -86,7 +86,7 @@
     <a href="#"><img alt="Sodapy" src="https://img.shields.io/badge/Sodapy-FF6600.svg?logo=python&logoColor=white"></a>
 </p>
 
-<h2>⚡ 3 Fun facts about me <h2>
+<h2>😁3 Fun facts about me😁<h2>
   <ul>
     <li>I don't know how to swim 😅.</li>
     <li>My favorite sports are soccer and basketball⚽🏀.</li>
