@@ -29,9 +29,10 @@
 <a href="https://github.com/wjz224/Scramble-Scrolls"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Scramble-Scrolls&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
    <a href="https://github.com/wjz224/Scheme-Interpreter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Scheme-Interpreter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </p>
-  <details open>
-  <summary><h2>🛠️ Technical Skills & Tools</h2><summary>
-  <h3>👨‍💻 Programming Languages</h3>
+  <details> 
+  <summary><h2>🛠️ My Technical Skills & Tools</h2></summary>
+    
+  <h3>👨‍💻 Programming and Markup Languages</h3>
 <p>
     <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
