@@ -101,6 +101,6 @@
   <ul>
     <li>I don't know how to swim 😅.</li>
     <li>My favorite sports are soccer and basketball⚽🏀.</li>
-    <li>I have skied for 5 years. ⛷️</li>
+    <li>I have skied for 5 years⛷️.</li>
   </ul>
 </details>
