@@ -21,13 +21,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wilson-zheng24/">
-    <img src="https://imgur.com/gallery/linkedin-logo-colored-OQUXwNp" width="32px" alt="LinkedIn Logo">
+    <img src="linkedinlogo.png" width="32px" alt="LinkedIn Logo">
   </a>
   <a href="https://wjz224.github.io/">
     <img src="WLogo.jpg" width="50px" alt="Personal Website">
   </a>
   <a href="https://www.instagram.com/wilson.zheng4/">
-    <img src="https://imgur.com/gallery/instagram-logo-64x56-bqhcvZy" width="32px" alt="Instagram Logo">
+    <img src="instagramlogo.png" width="32px" alt="Instagram Logo">
   </a>
 </p>
 
