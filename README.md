@@ -20,14 +20,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wilson-zheng24/" style="margin: 0; padding: 0;">
-    <img src="linkedinlogo.png" width="32px" alt="LinkedIn Logo">
+  <a href="https://www.linkedin.com/in/wilson-zheng24/">
+    <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/wilson-zheng24?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://wjz224.github.io/" style="margin: 0; padding: 0;">
-    <img src="WLogo.jpg" width="50px" alt="Personal Website">
+  <a href="https://github.com/wjz224">
+    <img alt="GitHub" title="Visit my GitHub" src="https://custom-icon-badges.demolab.com/github/stars/wjz224?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a> 
+  <a href="https://www.instagram.com/wilson.zheng4/">
+    <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/github/followers/wilson.zheng4?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/wilson.zheng4/" style="margin: 0; padding: 0;">
-    <img src="instagramlogo.png" width="32px" alt="Instagram Logo">
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/>
+  </a>
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="YouTube Views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/>
   </a>
 </p>
 
