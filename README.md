@@ -19,6 +19,19 @@
   </a>
 </p>
 
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/wilson-zheng24/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wjz224.github.io/">
+    <img src="https://img.shields.io/badge/Personal%20Website-FF5733?logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.instagram.com/wilson.zheng4/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
 <details open>
   <summary><h2>🤔Project's I am currently working on🔭</h2></summary>
   <p align = "left">
