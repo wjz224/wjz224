@@ -24,6 +24,7 @@
   <p align = "left">
     <a href="https://github.com/wjz224/Budgetly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Budgetly&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&langs_count=4" alt="readme-typing-svg"></a>
   </p>
+  </details>
 <details open> 
   <summary><h2>💡My Top Open Source Projects💡</h2></summary>
 <p align = "left">
@@ -34,6 +35,7 @@
 <a href="https://github.com/wjz224/Scramble-Scrolls"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Scramble-Scrolls&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
    <a href="https://github.com/wjz224/Scheme-Interpreter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wjz224&repo=Scheme-Interpreter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </p>
+  </details>
   <details open> 
   <summary><h2>🛠️ My Technical Skills & Tools</h2></summary>
     
@@ -85,6 +87,7 @@
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Sodapy" src="https://img.shields.io/badge/Sodapy-FF6600.svg?logo=python&logoColor=white"></a>
 </p>
+</details>
 <details open> 
 <summary><h2>😁3 Fun facts about me😁<h2></summary>
   <ul>
@@ -92,3 +95,4 @@
     <li>My favorite sports are soccer and basketball⚽🏀.</li>
     <li>I have skied for 5 years. ⛷️</li>
   </ul>
+</details>
