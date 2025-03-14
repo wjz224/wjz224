@@ -10,12 +10,20 @@
 </p>
 
 <p align="center" style="margin-top: -25px; margin-bottom: -15px;">
-   <a href="https://www2.lehigh.edu/"><img width="52px" alt="Lehigh Logo" title="Lehigh" src="https://raw.githubusercontent.com/wjz224/wjz224/main/LehighLogo.jpg"/></a>
-  <a href="https://www.linkedin.com/in/wilson-zheng/"><img width="52px" alt="LinkedIn" title="LinkedIn" src="instagramlogo.png"/></a>
+  <a href="https://www2.lehigh.edu/">
+    <img width="60px" alt="Lehigh Logo" title="Lehigh" src="https://raw.githubusercontent.com/wjz224/wjz224/main/LehighLogo.jpg" style="margin-top: 5px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/wilson-zheng/">
+    <img width="52px" alt="LinkedIn" title="LinkedIn" src="instagramlogo.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wjz224.github.io/"><img width="52px" alt="Personal Website" title="Personal Website" src="WlogoW.jpg"/></a>
+  <a href="https://wjz224.github.io/">
+    <img width="52px" alt="Personal Website" title="Personal Website" src="WlogoW.jpg"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/wjz224"><img width="52px" alt="GitHub" title="GitHub" src="linkedinlogo.png"/></a>
+  <a href="https://github.com/wjz224">
+    <img width="52px" alt="GitHub" title="GitHub" src="linkedinlogo.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
