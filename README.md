@@ -85,8 +85,8 @@
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Sodapy" src="https://img.shields.io/badge/Sodapy-FF6600.svg?logo=python&logoColor=white"></a>
 </p>
-
-<h2>😁3 Fun facts about me😁<h2>
+<details open> 
+<summary><h2>😁3 Fun facts about me😁<h2></summary>
   <ul>
     <li>I don't know how to swim 😅.</li>
     <li>My favorite sports are soccer and basketball⚽🏀.</li>
